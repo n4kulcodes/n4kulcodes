@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <h3 align="center">Electronics engineering student | Python & AI enthusiast | Passionate about design and visual storytelling</h3>
 
-- 🔭 I’m currently working on **Solidifying my Python, C, AI/ML & Electronics foundations.**
+- 🔭 I’m currently working on **solidifying my Python, C, AI/ML & electronics foundations.**
 
-- 🌱 I’m currently learning **Python, C, Basics of ML & Arduino**
+- 🌱 I’m currently learning **AI/ML & Arduino basics and working on beginner projects**
 
 - 👯 I’m looking to collaborate on **Open Source Beginner Electronics Projects, Python Tools, C Programs**
 
-- 🤝 I’m looking for help with **Arduino projects & understanding core AI/ML concepts and building small models**
+- 🤝 I’m looking for help with **Arduino projects, understanding core AI/ML concepts and building small models**
 
-- 💬 Ask me about **Python basics, C logic building, and my learning journey in AI/ML**
+- 💬 Ask me about **Python basics and C logic building :)**
 
 - 📫 How to reach me **nakulsarathinfo@gmail.com**
 
