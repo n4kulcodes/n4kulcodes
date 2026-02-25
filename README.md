@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nakulsarath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakulsarath" height="30" width="40" /></a>
-<a href="https://kaggle.com/n4kull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="n4kull" height="30" width="40" /></a>
-<a href="https://instagram.com/n4kull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n4kull" height="30" width="40" /></a>
+<a href="https://kaggle.com/n4kull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="n4kull" height="30" width="40" /></></a>
 <a href="https://www.hackerrank.com/n4kul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="n4kul" height="30" width="40" /></a>
 </p>
 
